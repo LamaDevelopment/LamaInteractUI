@@ -1,0 +1,37 @@
+body {
+    display: none; /* Initially hidden */
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Vollbild-Höhe, um den Container in der Mitte des Bildschirms zu zentrieren */
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.interact-container {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    background: rgba(21, 23, 32, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    gap: 10px;
+    width: max-content; /* Ensure container width adjusts to content */
+    max-width: 550px; /* Maximum width */
+    line-height: 1.2;
+    display: flex;
+    flex-direction: column; /* Ensure children are in a column layout */
+}
+
+.interact-container p {
+    margin: 0;
+}
+
+.keybind-container {
+    border: 2px solid white;
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1px 7px;
+    display: inline-block;
+}
