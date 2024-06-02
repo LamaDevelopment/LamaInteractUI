@@ -1,6 +1,11 @@
 ## LamaInteractUI
 A simple interaction UI for FiveM
 
+## Links
+Discord - [here](https://discord.gg/umH2Xx8cFz)
+Tebex - [here](https://store.lamadev.shop/)
+Forum Post - here
+
 ## Usage
 
 #### Show UI with text and key
