@@ -2,8 +2,8 @@
 A simple interaction UI for FiveM
 
 ## Links
-Discord - [here](https://discord.gg/umH2Xx8cFz)
-Tebex - [here](https://store.lamadev.shop/)
+Discord - [here](https://discord.gg/umH2Xx8cFz)<br>
+Tebex - [here](https://store.lamadev.shop/)<br>
 Forum Post - here
 
 ## Usage
