@@ -1,3 +1,6 @@
+
+![thumbnail-LamaInteractUI](https://github.com/LamaDevelopment/LamaInteractUI/assets/72563937/5678bf96-81c1-4b8d-87a5-5519d5e79890)
+
 ## LamaInteractUI
 A simple interaction UI for FiveM
 
@@ -58,3 +61,7 @@ Citizen.CreateThread(function()
     end
 end)
 ```
+
+## Preview
+![Screenshot 2024-06-02 221552](https://github.com/LamaDevelopment/LamaInteractUI/assets/72563937/f621d3e1-a0f3-4e65-8662-4178d17f7386)
+
