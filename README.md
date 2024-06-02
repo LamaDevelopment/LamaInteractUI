@@ -1,7 +1,7 @@
 
 ![thumbnail-LamaInteractUI](https://github.com/LamaDevelopment/LamaInteractUI/assets/72563937/5678bf96-81c1-4b8d-87a5-5519d5e79890)
 
-## LamaInteractUI
+# LamaInteractUI
 A simple interaction UI for FiveM
 
 ## Links
