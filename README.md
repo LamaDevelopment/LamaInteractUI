@@ -7,7 +7,7 @@ A simple interaction UI for FiveM
 ## Links
 Discord - [here](https://discord.gg/umH2Xx8cFz)<br>
 Tebex - [here](https://store.lamadev.shop/)<br>
-Forum Post - here
+Forum Post - [here](https://forum.cfx.re/t/free-standalone-interact-ui-lama-development/5238931)
 
 ## Usage
 
